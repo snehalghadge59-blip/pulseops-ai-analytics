@@ -17,7 +17,23 @@
 | **Ad-Hoc Query Turnaround** | 4–6 Hours (SQL Request Queue) | **< 2 Seconds (Instant Conversational BI)** |
 | **SLA Breach Detection** | End-of-Month Retrospective | **Real-Time Carrier Delay & Penalty Tracking** |
 | **Executive Reporting Effort** | 12 Hours / Week in Excel/Slides | **1-Click Automated Institutional PDF Compilation** |
-| **Query Security & Guardrails** | Manual review | **Strict AST AST Read-Only Validation & Zero SQL Injection** |
+| **Query Security & Guardrails** | Manual review | **Strict AST Read-Only Validation & Zero SQL Injection** |
+
+---
+
+## 📸 Live Application Showcase
+
+### 1. Conversational BI & NL-to-SQL Analysis
+![Conversational BI](docs/screenshots/analysis_results_1792603883918.png)
+
+### 2. Executive KPI Cockpit & Carrier SLA Heatmap
+![Executive Cockpit](docs/screenshots/tab2_kpi_cockpit_1792603928029.png)
+
+### 3. Customer Retention Cohorts & RFM Segmentation
+![Cohort & RFM](docs/screenshots/tab3_retention_rfm_1792603954304.png)
+
+### 4. Autonomous Executive Report Studio
+![Executive Report Studio](docs/screenshots/generated_briefing_1792604004478.png)
 
 ---
 
